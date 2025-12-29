@@ -1,0 +1,45 @@
+
+        body {
+            background-color: #000000; 
+            color: #ffffff; 
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        h1 {
+            color: #ffffff;
+            text-align: center;
+        }
+        
+        h2 {
+            color: #ffffff;
+            margin-top: 25px;
+        }
+        
+        p {
+            color: #ffffff;
+        }
+        
+        a {
+            color: #66b3ff;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        img {
+            margin: 10px 0;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+	.headings{
+	    color: #ADD8E6;
+}
+    
